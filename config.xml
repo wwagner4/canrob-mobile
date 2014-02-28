@@ -16,6 +16,8 @@
 	
 	<preference name="phonegap-version" value="3.1.0" />
 	
+	<icon src="icon.png" />
+
 	<icon src="icons/android/ldpi.png" gap:platform="android" gap:density="ldpi" />
 	<icon src="icons/android/mdpi.png" gap:platform="android" gap:density="mdpi" />
 	<icon src="icons/android/hdpi.png" gap:platform="android" gap:density="hdpi" />
