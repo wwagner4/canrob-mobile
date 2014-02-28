@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "net.entelijan.canrob"
+        versionCode = "10" 
+        version     = "1.0.0" >
+
+
+    <name>canrob</name>
+
+    <description>Results of the Scala Akka Workshop Reloaded - Actor Cluster. Vienna 2014</description>
+
+    <author href="http://entelijan.net" email="wwagner4@gmail.com">Wolfgang Wagner</author>
+
+</widget>
