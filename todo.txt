@@ -1,0 +1,3 @@
+- splashscreen
+- reduce access rights
+- Draw something on canvas before first start (splash screen)
