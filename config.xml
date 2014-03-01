@@ -5,7 +5,7 @@
         versionCode = "10" 
         version     = "1.0.0" >
 
-    <preference name="orientation" value="default" />
+    <preference name="orientation" value="portrait" />
     <name>canrob</name>
 
     <description>Results of the Scala Akka Workshop Reloaded - Actor Cluster. Vienna 2014</description>
@@ -30,9 +30,5 @@
 	<gap:splash src="splash/android/mdpi-portrait.png"  gap:platform="android" gap:density="mdpi" width="320" height="480" />
 	<gap:splash src="splash/android/ldpi-portrait.png"  gap:platform="android" gap:density="ldpi" width="200" height="320" />
 
-	<gap:splash src="splash/android/xhdpi-landscape.png" gap:platform="android" gap:density="xhdpi" width="1280" height="800" />
-	<gap:splash src="splash/android/hdpi-landscape.png"  gap:platform="android" gap:density="hdpi" width="800" height="480" />
-	<gap:splash src="splash/android/mdpi-landscape.png"  gap:platform="android" gap:density="mdpi" width="480" height="320" />
-	<gap:splash src="splash/android/ldpi-landscape.png"  gap:platform="android" gap:density="ldpi" width="320" height="200" />
 	
 </widget>
