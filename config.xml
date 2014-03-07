@@ -5,7 +5,7 @@
         versionCode = "10" 
         version     = "1.0.0" >
 
-    <preference name="orientation" value="default" />
+    <preference name="orientation" value="portrait" />
     <name>canrob</name>
 
     <description>Results of the Scala Akka Workshop Reloaded - Actor Cluster. Vienna 2014</description>
